@@ -5,7 +5,18 @@ variables or constants, but you can initialize them
 '''
 # Assing or initialize variables or constants
 num1 = 0
+print("Number 1 type: ", type(num1))
 num2 = 0
+print("Number 2 type: ", type(num2))
+
+
+num1 = 1.5
+print("Number 1 type: ", type(num1))
+Num2 = 3.25
+print("Number 2 type: ", type(num2))
+
+
+
 
 # Inputs
 print("please, enter first number: ")
